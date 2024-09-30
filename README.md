@@ -1,4 +1,3 @@
-# Sprint3Python
 # Sprint 3 - Computational Thinking With Python
 
 ## Integrantes do Grupo
