@@ -511,7 +511,7 @@ sim_ou_nao = ['Sim', 'Não']
 
 # Banco de dados dos pilotos, contendo informações como piloto, carro, tempo, posição e nacionalidade
 dados_pilotos = {
-    'Piloto': ['Luan', 'Boba', 'Igu', 'Nabo'],
+    'Piloto': ['Luan', 'Bobadilla', 'Igor', 'Jorge'],
     'Carro': ['MacLaren', 'Ferrari', 'Audi', 'Mercedes'],
     'Tempo Min': ['2', '3', '5', '4'],
     'Posição': ['1', '2', '4', '3'],
